@@ -1,0 +1,16 @@
+{
+  "RecipeName": "Hotdog",
+  "Ingredients": [
+    {
+      "Name": "Hotdog",
+      "FoodGroup": "Protein",
+      "Amount": "220",
+      "Unit": "Weiner",
+      "Calorie": "100"
+    }
+  ],
+  "Steps": [
+    "Write this down",
+    "Break it down"
+  ]
+}

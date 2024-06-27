@@ -1,0 +1,15 @@
+{
+  "RecipeName": "Eggs Benedict",
+  "Ingredients": [
+    {
+      "Name": "Egg",
+      "FoodGroup": "Protein",
+      "Amount": "10",
+      "Unit": "grams",
+      "Calorie": "12"
+    }
+  ],
+  "Steps": [
+    "STEP 1: Boil egg"
+  ]
+}

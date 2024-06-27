@@ -1,0 +1,24 @@
+{
+  "RecipeName": "Hamburger",
+  "Ingredients": [
+    {
+      "Name": "ham",
+      "FoodGroup": "Vegetables",
+      "Amount": "100",
+      "Unit": "kg",
+      "Calorie": "200"
+    },
+    {
+      "Name": "ham",
+      "FoodGroup": null,
+      "Amount": "100",
+      "Unit": "kg",
+      "Calorie": "200"
+    }
+  ],
+  "Steps": [
+    "STEP 1",
+    "STEP 2",
+    "STEP 3"
+  ]
+}

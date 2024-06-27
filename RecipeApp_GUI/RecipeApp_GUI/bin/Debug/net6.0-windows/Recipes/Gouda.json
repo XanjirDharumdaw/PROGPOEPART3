@@ -1,0 +1,15 @@
+{
+  "RecipeName": "Gouda",
+  "Ingredients": [
+    {
+      "Name": "Cheese",
+      "FoodGroup": "Dairy",
+      "Amount": "90",
+      "Unit": "J",
+      "Calorie": "90"
+    }
+  ],
+  "Steps": [
+    "STEP 1: This is my step"
+  ]
+}

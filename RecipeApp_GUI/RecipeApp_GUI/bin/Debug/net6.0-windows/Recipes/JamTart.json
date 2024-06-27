@@ -1,0 +1,16 @@
+{
+  "RecipeName": "Jamtarts",
+  "Ingredients": [
+    {
+      "Name": "Jam",
+      "FoodGroup": "Fruit",
+      "Amount": "40",
+      "Unit": "k",
+      "Calorie": "90"
+    }
+  ],
+  "Steps": [
+    "STEP 1 Try jame",
+    "STEP 2 Okay bro"
+  ]
+}

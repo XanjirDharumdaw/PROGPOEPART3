@@ -1,0 +1,29 @@
+{
+  "RecipeName": "Sushi",
+  "Ingredients": [
+    {
+      "Name": "Fish",
+      "FoodGroup": "Fruit",
+      "Amount": "10",
+      "Unit": "grams",
+      "Calorie": "200"
+    },
+    {
+      "Name": "nuts",
+      "FoodGroup": "Carbohydrate",
+      "Amount": "210",
+      "Unit": "pounds",
+      "Calorie": "231"
+    },
+    {
+      "Name": "Milk",
+      "FoodGroup": "Dairy",
+      "Amount": "120",
+      "Unit": "L",
+      "Calorie": "2000"
+    }
+  ],
+  "Steps": [
+    "STEP 1"
+  ]
+}
